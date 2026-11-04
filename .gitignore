@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.env
+state.json
+store/
+logs/
+交付物/
